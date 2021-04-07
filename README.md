@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChronoInferna
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning Python I think
+- 💞️ I’m looking to collaborate on C++ & Python stuff
