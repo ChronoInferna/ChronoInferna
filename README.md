@@ -1,6 +1,7 @@
 <p align="center">
  <img align="center" src="https://raw.githubusercontent.com/ChronoInferna/ChronoInferna/refs/heads/main/assets/cplusplus.svg" alt="cplusplus" width=40px />
  <img align="center" src="https://raw.githubusercontent.com/ChronoInferna/ChronoInferna/refs/heads/main/assets/python.svg" alt="python" width=40px />
+ <img align="center" src="https://raw.githubusercontent.com/ChronoInferna/ChronoInferna/refs/heads/main/assets/ubuntu.svg" alt="ubuntu" width=40px />
 </p>
 
 <h3 align="center">a little about me</h3>
