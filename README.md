@@ -8,7 +8,7 @@
 <p align="left" >
  i absolutely love mathematics and figuring out how i can bring computer science into that field (rather than the other way around)
  
- as you might also be able to tell, i love the rosé pine theme
+ as you also might be able to tell, i love the rosé pine theme
 
 <h3 align="center">stats</h3>
 
