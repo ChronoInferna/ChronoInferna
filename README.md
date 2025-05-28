@@ -12,7 +12,7 @@
 
 <h3 align="center">stats</h3>
 
-<p align="center" >
+<p align="left">
  i have too many unfinished private repos to count so that unfortunately skews some of the statistics below
 
 <p align="center">
