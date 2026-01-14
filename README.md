@@ -13,10 +13,6 @@
 <h3 align="center">stats</h3>
 
 <p align="center">
- <img align="center" src="![](https://komarev.com/ghpvc/?username=chronoinferna)" alt="profile views" />
-</p>
-
-<p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chronoinferna&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="languages" />
 </p>
 
