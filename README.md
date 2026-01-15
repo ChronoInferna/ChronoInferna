@@ -6,7 +6,7 @@
 
 <h3 align="center">a little about me</h3>
 <p align="left" >
- i love mathematics and figuring out how to intertwine math with 1) computer science and 2) the way i code
+ i love programming and figuring out how to intertwine systems with 1) math and 2) the way i code
  
  as you also might be able to tell, i love the rosé pine theme
 
