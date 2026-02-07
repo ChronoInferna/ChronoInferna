@@ -13,9 +13,9 @@
 <h3 align="center">stats</h3>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats-liart-two-77.vercel.app/api/top-langs?username=chronoinferna&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="languages" />
+ <img align="center" src="https://github-readme-stats-liart-two-77.vercel.app/api/top-langs?username=chronoinferna&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true" alt="languages" />
 </p>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats-liart-two-77.vercel.app/api?username=chronoinferna&show_icons=true&locale=en&theme=rose_pine" alt="score" />
+ <img align="center" src="https://github-readme-stats-liart-two-77.vercel.app/api?username=chronoinferna&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="score" />
 </p>
