@@ -13,7 +13,7 @@
 <h3 align="center">stats</h3>
 
 <p align="center">
- <img align="center" src="https://github-readme-stats-liart-two-77.vercel.app/api/top-langs?username=chronoinferna&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true" alt="languages" />
+ <img align="center" src="https://github-readme-stats-liart-two-77.vercel.app/api/top-langs?username=chronoinferna&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true&hide=html,tex,css&size_weight=0.5&count_weight=0.5" alt="languages" />
 </p>
 
 <p align="center">
